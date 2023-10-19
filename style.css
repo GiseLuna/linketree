@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(243, 187, 84);
+    text-align: center;
+    justify-content: center;
+
+}
+
+
+img {
+    padding-top: 3px;
+    border-radius: 100%;
+    padding: 40px;
+    width: 20%;
+
+}
+
+ul button {
+    color: black;
+    background-color: grey;
+    padding: 8px;
+    margin-left: 46%;
+
+}
+
+
+
+
+
+footer li {
+    text-align: center;
+    padding-top: 30px;
+    display: inline;
+    text-justify: center;
+    margin: 5%;
+}
+
+button {
+    color: black;
+    display: flex;
+    margin-left: 48%;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    border-radius: 10%;
+    list-style: none;
+    width: 68px;
+    margin-bottom: 15px;
+
+
+}
+
+.nombre {
+    color: rgb(16, 14, 14);
+    padding-bottom: 20px;
+    text-decoration: solid
+}
+
+
